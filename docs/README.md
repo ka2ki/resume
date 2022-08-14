@@ -52,8 +52,8 @@
 - circleCI
 - Netlify
 - Heroku
-
----
+- Nuxt.js(3.x)
+- Next.js
 
 ## 職務経歴詳細
 
