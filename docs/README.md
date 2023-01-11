@@ -14,7 +14,7 @@
 <p>
 <a href="https://github.com/ka2ki" target='_blank' rel='noopener'><img alt="Github" src="https://img.shields.io/badge/ka2ki-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/akashi_iwamoto" target='_blank' rel='noopener'><img alt="Twitter" src="https://img.shields.io/badge/@akashi_iwamoto-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://wakatime.com/@ka2ki" target='_blank' rel='noopener'><img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-%40ka2ki-green" /></a>
+<a href="https://wakatime.com/@ka2ki" target='_blank' rel='noopener'><img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-%40ka2ki-green?style=flat-square" /></a>
 </p>
 
 ---
