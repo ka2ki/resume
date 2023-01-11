@@ -1,5 +1,7 @@
 # 職務経歴書
 
+<p style="text-align: right;">更新日：2023-01-11</p>
+
 ## 基本情報
 
 | key      | value                                                    |
