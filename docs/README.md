@@ -75,172 +75,252 @@
 
 ##### ビデオ通話型オンライン接客サービス構築（2022-10-24 〜 2023-01-17）
 
-- チーム規模：10-50 人
-- 開発メンバー構成：
+- チーム規模
+  - 10-50 人
+- 開発メンバー構成
   - フロントエンドエンジニア 2 名
   - サーバーサイドエンジニア 複数名
   - デザイナー 1 名
   - マネージャー
   - ディレクター
-- 担当：フロントエンド開発
-- 開発環境： Next.js・TypeScript・WebSocket・HTML・Tailwind CSS・GitHub・GitHub Actions
-- 内容：Next.js を使用したフロントエンド開発や WebSocket を使用した双方向通信実装（オペレーター権限）を行う。ユーザー権限に関しては 3 種類ありそのうちの 1 つを担当。
+- 担当
+  - フロントエンド開発
+- 開発環境
+  - Next.js・TypeScript・WebSocket・HTML・Tailwind CSS・GitHub・GitHub Actions
+- 内容
+  - Next.js を使用したフロントエンド開発や WebSocket を使用した双方向通信実装（オペレーター権限）を行う
+  - ユーザー権限に関しては 3 種類ありそのうちの 1 つを担当
 
 ##### 定期・クロスセルを含む EC サイト制作（2022-09-28 〜 2022-10-23）
 
-- チーム規模：10-50 人
-- 開発メンバー構成：
+- チーム規模
+  - 10-50 人
+- 開発メンバー構成
   - フロントエンドエンジニア 4 名
   - サーバーサイドエンジニア 4 名
   - ディレクター
-- 担当：フロントエンド開発
-- 開発環境： React・TypeScript・HTML・Tailwind CSS・GitHub
-- 内容：Atomic Design を用いたコンポーネント制作を行う。
+- 担当
+  - フロントエンド開発
+- 開発環境
+  - React・TypeScript・HTML・Tailwind CSS・GitHub
+- 内容
+  - Atomic Design を用いたコンポーネント制作を行う
 
 ##### 360° 動画に対して、評価可能なサイト制作（2021-10-07 〜 2022-03-15）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - デザイナー 1 名
   - ディレクター
-- 担当：WordPress テーマ開発
-- 開発環境： HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions・GCE・Cloud SQL（MySQL）
-- 内容：WordPress のテーマ開発を行い、YouTube に投稿された 360° 動画を各指定されたテーマごとに分類。WordPress 上で評価できるサイトを制作。リリース後は保守対応中。
+- 担当
+  - WordPress テーマ開発
+- 開発環境
+  - HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions・GCE・Cloud SQL（MySQL）
+- 内容
+  - WordPress のテーマ開発を行い、YouTube に投稿された 360° 動画を各指定されたテーマごとに分類
+  - WordPress 上で評価できるサイトを制作
+  - リリース後は保守対応中
 
 ##### 経済に関する記事の多言語キュレーションサイト制作（2021-05-18 〜 2021-09-02）
 
-- チーム規模：10-50 人
-- 開発メンバー構成：
+- チーム規模
+  - 10-50 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - デザイナー 1 名
   - ディレクター
-- 担当：フロントエンド開発
-- 開発環境： Nuxt.js・JavaScript・HTML・SCSS・microCMS・GitHub
-- 内容：Nuxt.js と microCMS を用いた、多言語のキュレーションサイトを制作。コンテンツの検索機能の実装や、i18n を用いた、多言語対応を行う。リリース後は保守対応中。
+- 担当
+  - フロントエンド開発
+- 開発環境
+  - Nuxt.js・JavaScript・HTML・SCSS・microCMS・GitHub
+- 内容
+  - Nuxt.js と microCMS を用いた、多言語のキュレーションサイトを制作
+  - コンテンツの検索機能の実装や、i18n を用いた、多言語対応を行う
+  - リリース後は保守対応中
 
 ##### 保育士ポータルサイト制作（2020-12-14 〜 2021-05-11）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - デザイナー 1 名
-- 担当：WordPress テーマ開発
-- 開発環境：HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions
-- 内容：もともと使われていた独自 CMS から、WordPress へ移行。WordPress のテーマ開発を行い、既存の CMS と似たような動きをするように実装。WordPress のコンテンツ更新手順書等ドキュメント類の作成。リリース後は保守対応中。
+- 担当
+  - WordPress テーマ開発
+- 開発環境
+  - HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions
+- 内容
+  - もともと使われていた独自 CMS から、WordPress へ移行。WordPress のテーマ開発を行い、既存の CMS と同様の動きをするように実装
+  - WordPress のコンテンツ更新手順書等ドキュメント類の作成
+  - リリース後は保守対応中
 
 ##### 移動スーパーの社内業務システム（2020-10-02 〜 2020-12-25）
 
-- チーム規模：10-50 人
-- 開発メンバー構成：
+- チーム規模
+  - 10-50 人
+- 開発メンバー構成
   - フロントエンドエンジニア 3 名
   - デザイナー 1 名
   - サーバーサイドエンジニア 複数名
   - ディレクター
-- 担当：HTML コーディング
-- 開発環境：HTML・Bootstrap
-- 内容：Bootstrap を用いた、HTML コーディングを行う。
+- 担当
+  - HTML コーディング
+- 開発環境
+  - HTML・Bootstrap
+- 内容
+  - Bootstrap を用いた、HTML コーディングを行う
 
 ##### 富山県の大型ショッピングモールサイトリニューアル（2020-08-28 〜 2020-12-22）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - サーバーサイドエンジニア 1 名
   - デザイナー 1 名
   - ディレクター
-- 担当：HTML コーディング
-- 開発環境：HTML・SCSS・jQuery・GitLab・Backlog
-- 内容：富山県の大型ショッピングモールサイトリニューアルのため、HTML コーディングを行う。
+- 担当
+  - HTML コーディング
+- 開発環境
+  - HTML・SCSS・jQuery・GitLab・Backlog
+- 内容
+  - 富山県の大型ショッピングモールサイトリニューアルのため、HTML コーディングを行う
 
 ##### 梱包資材を取り扱う企業の製品情報・記事コンテンツ掲載サイト制作（2020-05-14 〜 2020-08-25）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - デザイナー 1 名
   - ディレクター
-- 担当：WordPress テーマ開発
-- 開発環境：HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions
-- 内容：既存の静的サイトの CMS 化を行う。CMS は WordPress を採用し、テーマを開発することで、コーポレートサイトのリニューアルを行う。WordPress 開発全般を担当。既存のサイトにある製品をより探しやすくするため、複数パターンの検索機能なども実装。GitHub Actions を用いた自動デプロイなども含め WordPress 開発全般を担当。リリース後は保守対応中。
+- 担当
+  - WordPress テーマ開発
+- 開発環境
+  - HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions
+- 内容
+  - 既存の静的サイトの CMS 化を行う
+  - CMS は WordPress を採用し、テーマを開発することで、コーポレートサイトのリニューアルを行う
+  - WordPress 開発全般を担当
+  - 既存のサイトにある製品をより探しやすくするため、複数パターンの検索機能なども実装。GitHub Actions を用いた自動デプロイなども含め WordPress 開発全般を担当
+  - リリース後は保守対応中
 
 ##### 工業製品を取り扱う企業のコーポレートサイト制作（2019-11-26 〜 2020-03-27）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - デザイナー 1 名
   - ディレクター
-- 担当：WordPress テーマ開発
-- 開発環境：HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions
-- 内容：既存の静的サイトから WordPress へリニューアルを行う。テーマ開発や、GitHub Actions を用いた自動デプロイなども含め WordPress 開発全般を担当。リリース後は保守対応中。
+- 担当
+  - WordPress テーマ開発
+- 開発環境
+  - HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions
+- 内容
+  - 既存の静的サイトから WordPress へリニューアルを行う
+  - テーマ開発や、GitHub Actions を用いた自動デプロイなども含め WordPress 開発全般を担当
+  - リリース後は保守対応中
 
 ##### アパレルブランド企業のコーポレートサイト制作（2019-10-16 〜 2019-12-18）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - デザイナー 1 名
-- 担当：WordPress テーマ開発
-- 開発環境：HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions
-- 内容：CMS（WordPress）を用いたコーポレートサイト制作。テーマ開発や、GitHub Actions を用いた自動デプロイなども含め WordPress 開発全般を担当。リリース後は保守対応中。
+- 担当
+  - WordPress テーマ開発
+- 開発環境
+  - HTML・SCSS・jQuery・WordPress・Docker・GitHub・GitHub Actions
+- 内容
+  - CMS（WordPress）を用いたコーポレートサイト制作
+  - テーマ開発や、GitHub Actions を用いた自動デプロイなども含め WordPress 開発全般を担当
+  - リリース後は保守対応中
 
 ##### ソフトウェア開発企業のコーポレートサイト制作（2019-05-10 〜 2019-06-18）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - デザイナー 1 名
-- 担当：フロントエンド開発
-- 開発環境：Nuxt.js・JavaScript・HTML・SCSS・Netlify・GitHub
-- 内容：Nuxt.js にて i18n を用いた多言語のコーポレートサイト制作。更新を行う記事コンテンツに関しては、Markdown で管理し、ビルドすることで JSON に変換 →html 生成 → ページ生成する。コンテンツを更新・追加する場合、Markdown ファイルを作成し、Git の指定ブランチへのマージですることで Netlify で自動ビルド・デプロイする。
+- 担当
+  - フロントエンド開発
+- 開発環境
+  - Nuxt.js・JavaScript・HTML・SCSS・Netlify・GitHub
+- 内容
+  - Nuxt.js にて i18n を用いた多言語のコーポレートサイト制作
+  - 更新を行う記事コンテンツに関しては、Markdown で管理し、ビルドすることで JSON に変換 →html 生成 → ページ生成する
+  - コンテンツを更新・追加する場合、Markdown ファイルを作成し、Git の指定ブランチへのマージですることで Netlify で自動ビルド・デプロイする
 
 ##### 福島県の大型ショッピングモールサイトリニューアル（2019-04-01 〜 2019-06-19）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - サーバーサイドエンジニア 1 名
   - デザイナー 1 名
   - ディレクター
-- 担当：HTML コーディング
-- 開発環境：HTML・SCSS・jQuery・GitLab・Backlog
-- 内容：福島県の大型ショッピングモールサイトの HTML コーディングを行う。
+- 担当
+  - HTML コーディング
+- 開発環境
+  - HTML・SCSS・jQuery・GitLab・Backlog
+- 内容
+  - 福島県の大型ショッピングモールサイトの HTML コーディングを行う
 
 ##### 沖縄県の大型ショッピングモールサイトリニューアル（2019-02-21 〜 2019-06-21）
 
-- チーム規模：1-10 人
-- 開発メンバー構成：
+- チーム規模
+  - 1-10 人
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
   - サーバーサイドエンジニア 1 名
   - デザイナー 1 名
   - ディレクター
-- 担当：HTML コーディング
-- 開発環境：HTML・SCSS・jQuery・GitLab・Backlog
-- 内容：沖縄県の大型ショッピングモールサイトの HTML コーディングを行う。
+- 担当
+  - HTML コーディング
+- 開発環境
+  - HTML・SCSS・jQuery・GitLab・Backlog
+- 内容
+  - 沖縄県の大型ショッピングモールサイトの HTML コーディングを行う
 
 ##### ランディングページ制作（2018-11-01 〜）
 
-- チーム規模：10-50 人
-- 担当：HTML コーディング
-- 開発環境：HTML・SCSS・jQuery・Backlog
-- 内容：アニメーションを含むランディングページの制作を複数件おこなう。各プロジェクトの合間に行うこともある。
+- チーム規模
+  - 10-50 人
+- 担当
+  - HTML コーディング
+- 開発環境
+  - HTML・SCSS・jQuery・Backlog
+- 内容
+  - アニメーションを含むランディングページの制作を複数件おこなう
+  - 各プロジェクトの合間に行うこともある
 
 ### => 株式会社フィネス（2015/08〜2018/10）
 
 ##### 【自社】コーポレートサイト制作
 
-- 開発メンバー構成：
+- 開発メンバー構成
   - フロントエンドエンジニア 1 名
-- 担当：WordPress テーマ改修
-- 開発環境：HTML・CSS・jQuery・WordPress
-- 内容：HTML コーディング
+- 担当
+  - WordPress テーマ改修
+- 開発環境
+  - HTML・CSS・jQuery・WordPress
+- 内容
+  - HTML コーディング
 
 ##### 【自社】ランディングページ制作
 
-- 担当：LP デザイン・HTML コーディング
-- 開発環境：HTML・CSS・jQuery・Photoshop・Illustrator・Google Analytics・Google Optimize・Google Tagmanager
-- 内容：デザイン・HTML コーディング
+- 担当
+  - LP デザイン・HTML コーディング
+- 開発環境
+  - HTML・CSS・jQuery・Photoshop・Illustrator・Google Analytics・Google Optimize・Google Tagmanager
+- 内容
+  - デザイン・HTML コーディング
 
 ### => 日本コンセントリクス株式会社（2015/05〜2015/07）
 
