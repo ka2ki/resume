@@ -1,4 +1,4 @@
-<link href="./style.css" rel="stylesheet"></link>
+<link href="./style.css" rel="stylesheet">
 <p style="text-align: right;">更新日：2023-03-11</p>
 
 ## 基本情報
