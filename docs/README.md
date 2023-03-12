@@ -1,4 +1,5 @@
-<p style="text-align: right;">更新日：2023-01-11</p>
+<link href="./style.css" rel="stylesheet"></link>
+<p style="text-align: right;">更新日：2023-03-11</p>
 
 ## 基本情報
 
