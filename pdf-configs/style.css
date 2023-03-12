@@ -2,13 +2,23 @@
 
 body {
   font-size: 12px;
-  font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+  font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", Meiryo,
+    sans-serif;
 }
 
 h1:first-child {
   margin-top: 0;
   padding-top: 0;
   text-align: center;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+h5 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 table {
