@@ -6,7 +6,7 @@
         "severity": "warning"
       },
       "max-comma": {
-        "max": 3
+        "max": 10
       },
       "max-ten": {
         "max": 3
@@ -126,6 +126,10 @@
     "prefer-tari-tari": false,
     "abbr-within-parentheses": true,
     "no-mixed-zenkaku-and-hankaku-alphabet": true,
-    "footnote-order": true
+    "footnote-order": true,
+    "textlint-rule-no-dropping-the-ra": true
+  },
+   "filters": {
+    "comments": true
   }
 }
