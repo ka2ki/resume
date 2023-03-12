@@ -1,3 +1,9 @@
+/* GitHub Pages Styles */
+h4 {
+  font-style: italic;
+  color: #b45959;
+}
 h5 {
   margin-bottom: 5px;
+  color: #737373;
 }
